@@ -1,6 +1,6 @@
 # 💫 About Me:
 💫 About Me<br><br>Hi, I’m Kersoan P, a B.Tech student in Artificial Intelligence and Data Science from Saveetha Engineering College, Chennai.<br>I’m passionate about building AI-driven applications that blend creativity with intelligent automation — from Generative AI chatbots to Computer Vision systems.<br><br>💡 My interests revolve around<br><br>• Generative AI, RAG, and LangChain-based apps<br>• Machine Learning and NLP systems<br>• Chatbots, Streamlit web apps, and data-driven automation<br><br>🧠 I’ve built projects such as:<br><br>• GenRag-PDF: A multi-PDF chat system using LangChain, Gemini, FAISS, and Streamlit<br>• IT Support Ticket Classifier: An AI system using Gemini Pro and NLP for smart automation<br>• Real-Time Vehicle Speed Detection: A Computer Vision app with OpenCV and NumPy<br><br>⚙️ Tech Stack: Python, LangChain, Streamlit, Gemini, FAISS, PyTorch, TensorFlow, Pandas, NumPy   
-
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kersoan-plasis) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@kersoan.plasis.2003) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kersoan.plasis.2003@gmail.com) 
