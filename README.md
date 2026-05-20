@@ -15,8 +15,9 @@
 
 ## 🌐 Connect with me
 
-💼 LinkedIn: [Kersoan-P](www.linkedin.com/in/kersoan-plasis)
-
 📧 Email: kersoan.plasis.2003@gmail.com
-
+💼 LinkedIn: [Kersoan-P](www.linkedin.com/in/kersoan-plasis)
 📝 Medium: [Your_Medium](https://medium.com/@kersoan.plasis.2003)
+
+
+
